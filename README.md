@@ -1,2 +1,2 @@
-# react-study-router
+# React-study
 Created with CodeSandbox
